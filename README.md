@@ -72,7 +72,7 @@ footer {
 <body>
 
 <header>
-    <h1>Ajeng Poles Marmer </h1>
+    <h1>Jasa Poles Marmer Profesional</h1>
     <p>Mengembalikan Kilau Elegan Lantai & Dinding Marmer Anda</p>
     <a class="btn" href="https://wa.me/6285710905692">Hubungi Sekarang</a>
 </header>
@@ -113,5 +113,4 @@ footer {
 </footer>
 
 </body>
-</html># Ajeng-Poles-Marmer
-Ajeng Poles Marmer
+</html>
